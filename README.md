@@ -39,6 +39,7 @@
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
+![GitHub Stats](https://https://github-readme-stats.vercel.app/api username=Mohamed Mrabet&theme=radical)
 <br>
 
 <!---
