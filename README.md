@@ -14,7 +14,7 @@
 
   💻 I love Writing code, Hardware and learning anything about them 😊
   <br>
-  📚 I’m currently focusing on Data Science 
+  📚 I’m currently focusing on Web development
   <br>
   📫 How to reach me 👇
 </p>
